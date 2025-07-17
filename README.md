@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreddyOcansey
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning everything i can
 - 💞️ I’m looking to collaborate on mobile application developments
 - 📫 How to reach me ocanseygodfred@gmail.com
 
